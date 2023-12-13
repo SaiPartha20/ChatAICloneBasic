@@ -1,5 +1,5 @@
 let lastExecutionTime = 0;
-const API_KEY = "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";
+const API_KEY = "YOUR_OPENAI_API_KEY";
 const submitButton = document.querySelector("#submit");
 const outputElement = document.querySelector("#output");
 const inputElement = document.querySelector("input");
